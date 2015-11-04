@@ -1,0 +1,15 @@
+[submodule "mysite/themes/hugo-uno"]
+	path = mysite/themes/hugo-uno
+	url = https://github.com/yanzewei/hugo-uno
+[submodule "mysite/public"]
+	path = mysite/public
+	url = https://github.com/yanzewei/yanzewei.github.io.git
+[submodule "mysite/themes/hugo-theme-air"]
+	path = mysite/themes/hugo-theme-air
+	url = https://github.com/yanzewei/hugo-theme-air
+[submodule "mysite/themes/hugo-strata"]
+	path = mysite/themes/hugo-strata
+	url = https://github.com/yanzewei/hugo-strata-theme
+[submodule "mysite/themes/hugo-artists"]
+	path = mysite/themes/hugo-artists
+	url = https://github.com/yanzewei/hugo-artists-theme
