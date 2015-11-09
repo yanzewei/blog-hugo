@@ -13,3 +13,6 @@
 [submodule "mysite/themes/hugo-artists"]
 	path = mysite/themes/hugo-artists
 	url = https://github.com/yanzewei/hugo-artists-theme
+[submodule "mysite/themes/tachyons"]
+	path = mysite/themes/tachyons
+	url = https://github.com/yanzewei/tachyons
